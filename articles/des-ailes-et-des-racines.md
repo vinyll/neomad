@@ -1,0 +1,16 @@
+# Des ailes et des racines
+
+J’ai quitté la France il y a dix ans. Une fabuleuse décennie façonnée de voyages entre le Moyen-Orient, l’Afrique et l’Asie. En fermant les yeux, je revois le bleu des mosquées Charm el Cheikh, le vert des pentes de l’Himalaya, le jaune des dunes libyques, le rose des montagnes du Sinaï quand le soleil se couche.
+
+Des couleurs accompagnées d’un bouquet de parfum. L’encens enivrant de Darjeeling, les vapeurs des chicha du Caire, le souffre sur les plages de la mer Morte, les croissants tout chauds de Pristina.
+Les rues du Caire, d’Amman, de Grenade, de Lisbonne ou de Jérusalem me sont plus familières que celles de Paris. 
+
+Pour un large panel de sociologues, géographes, économistes, je suis ce qu’on appelle une nomade des temps modernes. Une enfant de la mondialisation, de la mobilité qui s’en remet à Airbnb, Blablacar ou Skyscanner pour organiser sa vie. Graphistes, développeurs, journalistes, traders… il y aurait 20% d’emplois nomades en France. Des emplois qui n’ont pas besoin de s’ancrer dans un territoire pour produire de la richesse à la différence de l’instituteur, du commerçant, du banquier ou de l’agent immobilier qui eux s’appuient sur un réseau de proximité. Dans cette opposition entre nomades et sédentaires, certains y voient la nouvelle lutte des classes. Ceux qui peuvent voyager contre ceux qui restent. Ceux qui occupent le ciel contre ceux qui travaillent la terre.
+
+La réalité me parait beaucoup plus complexe. Je ne me considère pas comme nomade mais plutôt comme une travailleuse itinérante ou comme une “déplacée volontaire”. A la différence des nomades, des vrais - les bédouins par exemple-, j’ai un pays, un territoire où revenir si mes aventures tournent mal. Sans ce filet de protection, aurais-je le courage de voyager ? Certainement pas. Les véritables nomades du XXI eme siècle, ce sont ces millions de migrants propulsés sur la route par les batailles. Le voyage est alors un déchirement, une guerre dans la guerre. 
+
+J’aime sillonner le monde car j’ai la chance inouïe, en tant qu’Européenne, de pouvoir habiter dans presque tous les endroits que je visite.  “Vivre un pays”, partager avec lui une expérience intime et sensorielle est essentiel à ma démarche. Cela passe par une sédentarisation de quelques mois voire de quelques années. Cela passe aussi par l’apprentissage de la langue. Avec toujours la liberté de pouvoir plier bagage. 
+
+Le but final de mes pérégrinations, c’est de trouver ce lieu qui, dans 5 ou 10 ans, sera ma base véritable, là où je pourrais _“accrocher mon chapeau”_ selon l’expression de Bruce Chatwin. J’ignore encore où ce sera. Je pense parfois à Barcelone. Pakistanais, Indiens, Sénégalais, Marocains, Brésiliens, Argentins... donnent à cette ville une vitalité unique. Il suffit de regarder les passants depuis la terrasse d’un café pour parcourir les continents. Je trouverai alors le moyen d’entretenir un petit jardin pour renouer avec l’odeur de la terre qui souvent me manque. Après les ailes, les racines. Au fond, j’ai toujours eu ce rêve. Le voyage m’aura permis d’identifier ce lieu en adéquation avec moi-même et d’approvisionner en souvenirs les moments où j’arroserai mes plants de tomates, les pieds bien ancrés sur Terre.
+
+_Marion Touboul_
