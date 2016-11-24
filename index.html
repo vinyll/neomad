@@ -81,11 +81,17 @@
         background-color: #999;
         opacity: .6;
     }
+    #notice:not(.empty) {
+        padding: 20px;
+        font-weight: bold;
+        text-align: center;
+    }
     </style>
 </head>
 
 <body>
   <header>
+      <section id=notice class=empty></section>
       <img src="images/homebackground.jpg" alt="" />
       <h1>N<span>e</span>omad</h1>
       <h2>Make the world your home. And workplace.</h2>
@@ -99,13 +105,16 @@
         </form>
       </section>
     </header>
-    <script>
 
+    <script>
       if (document.location.hash) {
+        var notice = document.querySelector('#notice')
+        notice.innerHTML = "Thanks, we'll keep you informed!"
+        notice.classList.remove('empty')
         var button = document.querySelector('[type=submit]')
-        button.value = "Ok!"
       }
     </script>
+
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
