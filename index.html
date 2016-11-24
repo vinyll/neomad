@@ -92,20 +92,19 @@
       <section class="earlybird">
         <p>Do you want an early account? We are looking for <strong>beta users</strong>.</p>
         <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
-        <form method="post" action="https://formspree.io/subscribe@neomad.org">
-          <input type="email" name="_replyto" placeholder="Enter your email address" required>
+        <form method="post" action="https://getsimpleform.com/messages?form_api_token=ec09216646c52506bc83161e4bc3e609">
+          <input type="hidden" name="redirect_to" value="http://neomad.org/#sent" />
+          <input type="email" name="email" placeholder="Enter your email address" required>
           <input class="valid" type="submit" value="Count me in!">
         </form>
       </section>
     </header>
     <script>
 
-      document.forms[0].addEventListener('submit', function(event) {
+      if (document.location.hash) {
         var button = document.querySelector('[type=submit]')
-        button.setAttribute('disabled', 'disabled')
         button.value = "Ok!"
-        event.target.reset()
-      })
+      }
     </script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
