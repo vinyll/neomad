@@ -67,6 +67,7 @@
         padding: 15px 30px;
         height: 60px;
         display: inline;
+        vertical-align: middle;
     }
     form input.valid {
         border: 1px solid #ccc;
@@ -81,6 +82,14 @@
         background-color: #999;
         opacity: .6;
     }
+    form input[type=checkbox] {
+        width: 35px;
+        margin-right: 1em;
+    }
+    form input[type=checkbox] + label {
+        font-size: 1.1em;
+    }
+
     #notice:not(.empty) {
         padding: 20px;
         font-weight: bold;
@@ -102,6 +111,7 @@
           <input type="hidden" name="redirect_to" value="http://neomad.org/#sent" />
           <input type="email" name="email" placeholder="Enter your email address" required>
           <input class="valid" type="submit" value="Count me in!">
+          <input type=checkbox id=contribute name=contribute><label for=contribute>I'd also like to contribute somehow! <small>(like: graphism, coding, ideas, …)</small></label>
         </form>
       </section>
     </header>
